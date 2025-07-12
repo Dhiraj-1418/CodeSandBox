@@ -16,9 +16,8 @@ This project is a simple React application that fetches and displays data from a
 
 ## 🖼️ Preview
 
-![App Preview](https://raw.githubusercontent.com/your-username/your-repo-name/main/preview.png)
+https://drive.google.com/file/d/1OKsRMNykXl1Vgk7Ijwpr-AWdxrcM-iyI/view?usp=sharing
 
-> _Replace the above link with an actual screenshot after uploading it to your GitHub repo._
 
 ---
 
